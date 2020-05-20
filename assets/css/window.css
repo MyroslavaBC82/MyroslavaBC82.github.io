@@ -33,9 +33,9 @@ pointer-events: none; /* элемент невидим для событий м�
     position: absolute;
     max-width: 16vw;
     max-height: 16vh;
-    margin-top: -15%;
-    margin-left: 25%;
-    margin: center;
+    margin-top: -13%;
+    margin-left: 20%;
+    
 }
 
 /* настройка заголовка */
