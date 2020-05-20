@@ -33,8 +33,8 @@ pointer-events: none; /* элемент невидим для событий м�
     position: absolute;
     max-width: 16vw;
     max-height: 16vh;
-    margin-top: -25vh;
-    margin-left: 35%;
+    margin-top: -30vh;
+    margin-left: 30%;
     margin: center;
 }
 
