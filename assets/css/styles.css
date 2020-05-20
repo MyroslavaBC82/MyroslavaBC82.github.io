@@ -97,16 +97,16 @@ header nav{
 }
 
 header nav li{
-	margin: 0 15px;
+	margin: 0 2.4vh;
 }
 
 header a.bt{
 	
 	
-	border: 10px solid white;
-	border-width: 1px;
-	border-radius: 20px;
-	padding: 10px 40px;
+	border: 1.6vh solid white;
+	border-width: 0.16vh;
+	border-radius: 3.2vh;
+	padding: 1.6vh 6.4vh;
 		
 }
 
@@ -147,22 +147,22 @@ header a.bt{
 }
 
 .hero h1{
-	font: bold 60px 'Open Sans', sans-serif;
-	margin-bottom: 15px;
+	font: bold 9.6vh 'Open Sans', sans-serif;
+	margin-bottom: 2.4vh;
 }
 
 .hero h4{
-	font: normal 15px 'Open Sans', sans-serif;
-	margin-bottom: 10px;
+	font: normal 2.4vh 'Open Sans', sans-serif;
+	margin-bottom: 1.6vh;
 	color: rgb(231, 157, 97)
 }
 .hero a.btn{
 	color: rgb(241, 14, 90);
 	font-weight: normal;
 	text-transform: none;
-	padding: 10px 40px;
+	padding: 1.6vh 6.4vh;
 	background: rgb(255, 253, 253);
-	border-radius: 20px;
+	border-radius: 3.2vh;
 	margin-right:25%;
 	margin-top: 5%;
 }
@@ -170,10 +170,10 @@ header a.bt{
 .hero a.btn2{
 	
 	align-content: center;
-	border: 7px solid white;
-	padding: 8.5px 40px;
-	border-width: 1px;
-	border-radius: 20px;
+	border: 1.12vh solid white;
+	padding: 1.36vh 6.4vh;
+	border-width: 0.16vh;
+	border-radius: 3.2vh;
 	margin-left: 10%;
 	margin-top: -3.5%;
 	
@@ -213,10 +213,10 @@ header a.bt{
 .our-work .grid p.btn{
 	text-align: center;
 	align-content: center;
-	border: 1px solid rgb(109, 108, 108);
-	padding: 4px 15px;
-	border-width: 1px;
-	border-radius: 60px;
+	border: 0.16vh solid rgb(109, 108, 108);
+	padding: 0.64vh 2.4vh;
+	border-width: 0.16vh;
+	border-radius: 9.6vh;
 	margin-left: -100%;
 	margin-top: 0%;
 }
@@ -229,10 +229,10 @@ header a.bt{
 .our-work .grid p.btn2{
 	text-align: center;
 	align-content: center;
-	border: 1px solid rgb(109, 108, 108);
-	padding: 4px 15px;
-	border-width: 1px;
-	border-radius: 60px;
+	border: 0.16vh solid rgb(109, 108, 108);
+	padding: 0.64vh 2.4vh;
+	border-width: 0.16vh;
+	border-radius: 9.6vh;
 	margin-right: -40%;
 	margin-top: -6.5%;
 }
@@ -254,22 +254,22 @@ header a.bt{
 }
 
 .features .grid li{
-	padding: 0 30px;
+	padding: 0 4.8vh;
 	flex-basis: 25%;
 	text-align: center;
 	
 }
 
 .features .grid li i{
-    font-size: 50px;
+    font-size: 8vh;
 	color: grey;
 	
 }
 
 .features .grid li h4{
 	color: rgb(110, 109, 109);
-    font-size: 20px;
-    margin-bottom: 25px;
+    font-size: 3.2vh;
+    margin-bottom: 4vh;
 }
 
 .features .grid li p{
@@ -281,9 +281,9 @@ header a.bt{
 	color: rgb(252, 247, 249);
 	font-weight: normal;
 	text-transform: none;
-	padding: 10px 40px;
+	padding: 1.6vh 6.4vh;
 	background: rgb(36, 19, 190);
-	border-radius: 20px;
+	border-radius: 3.2vh;
 	
 }
 
@@ -315,9 +315,9 @@ header a.bt{
 	color: rgb(252, 247, 249);
 	font-weight: normal;
 	text-transform: none;
-	padding: 10px 40px;
+	padding: 1.6vh 6.4vh;
 	background: rgb(36, 19, 190);
-	border-radius: 20px;
+	border-radius: 3.2vh;
 	margin-right: -20%;	
 }
 
@@ -348,9 +348,9 @@ header a.bt{
 	color: rgb(252, 247, 249);
 	font-weight: normal;
 	text-transform: none;
-	padding: 10px 40px;
+	padding: 1.6vh 6.4vh;
 	background: rgb(36, 19, 190);
-	border-radius: 20px;
+	border-radius: 3.2vh;
 	margin-left: -82%;	
 }
 
@@ -370,7 +370,7 @@ header a.bt{
 	align-items: center;
 	justify-content: center;
 	flex-wrap: wrap;
-	max-width: 800px;
+	max-width: 128vh;
 	width: 80%;
 	
 }
@@ -379,11 +379,11 @@ header a.bt{
 	
 	
 	font-weight: normal;
-	padding: 10px 60px;
+	padding: 1.6vh 9.6vh;
 	background: rgb(177, 60, 24);
 	opacity: 0.4;
-	border-width: 1px;
-	border-radius: 20px;
+	border-width: 0.16vh;
+	border-radius: 3.2vh;
 	margin-right: 20%;
 	margin-top: 5%;
 	position: relative;
@@ -398,9 +398,9 @@ header a.bt{
 	color: rgb(231, 17, 17);
 	font-weight: normal;
 	text-transform: none;
-	padding: 10px 40px;
+	padding: 1.6vh 6.4vh;
 	background: rgb(255, 253, 253);
-	border-radius: 20px;
+	border-radius: 3.2vh;
 	margin-left: 5%;
 	margin-top: 1.5%;
 	position: absolute;
@@ -418,21 +418,21 @@ footer{
 	text-transform: none;
 	text-align: center;
 	background-color:  #f3e9e9;
-	padding: 60px 0;
+	padding: 6.4vh 0;
 }
 
 
 footer p{
 	text-transform: none;
-	font-size: 14px;
+	font-size: 2.24vh;
 	color: rgba(104, 100, 100, 0.6);
-	margin-bottom: 10px;
+	margin-bottom: 1.6vh;
 }
 
 footer p a{
 	color: rgb(122, 120, 120);
 }
 @keyframes animate {
-	from {top:-320px; opacity:0}
+	from {top:-51.2vh; opacity:0}
 	to {top:0; opacity:1}
   }
