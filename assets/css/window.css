@@ -22,8 +22,8 @@ pointer-events: none; /* элемент невидим для событий м�
 .modalwindow {
     position: relative;
     width: 100%;
-    max-width: 80vw;
-    max-height: 80vh;
+    max-width: 90vw;
+    max-height: 90vh;
     margin: 10% auto;
     padding: 5%;
     background: #fff;
@@ -31,10 +31,11 @@ pointer-events: none; /* элемент невидим для событий м�
 }
 .modalwindow h1 {
     position: absolute;
-    max-width: 20vw;
-    max-height: 20vh;
-    margin-top: -13%;
+    max-width: 16vw;
+    max-height: 16vh;
+    margin-top: -25vh;
     margin-left: 35%;
+    margin: center;
 }
 
 /* настройка заголовка */
