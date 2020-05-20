@@ -22,20 +22,19 @@ pointer-events: none; /* элемент невидим для событий м�
 .modalwindow {
     position: relative;
     width: 100%;
-    max-width: 500px;
-    max-height: 500px;
+    max-width: 80vw;
+    max-height: 80vh;
     margin: 10% auto;
     padding: 5%;
     background: #fff;
-    border-radius: 3px;
+    border-radius: 0.48vh;
 }
 .modalwindow h1 {
     position: absolute;
-    max-width: 100px;
-    max-height: 100px;
-    padding: 2%;
-    margin-top: -35%;
-    margin-left: 18%;
+    max-width: 20vw;
+    max-height: 20vh;
+    margin-top: -13%;
+    margin-left: 35%;
 }
 
 /* настройка заголовка */
@@ -62,7 +61,7 @@ background: rgb(238, 23, 16);
 padding: 3%;
 margin: 0 auto;
 width: 50%;
-border-radius: 3px;
+border-radius: 0.48vh;
 text-align: center;
 text-decoration: none;
 }
