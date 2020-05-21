@@ -86,7 +86,7 @@ header{
 	justify-content: space-between;
 	align-items: center;
 	color: #fff;
-	padding: 5.6vh 16vh 0;
+	padding: 6vh 16vh 0;
 	animation-name: animate;
 	animation-duration: 2s
 }
@@ -97,12 +97,11 @@ header nav{
 }
 
 header nav li{
-	margin: 0 2.4vh;
+	margin: 0 3vh;
 }
 
 header a.bt{
-	
-	
+		
 	border: 1.6vh solid white;
 	border-width: 0.16vh;
 	border-radius: 3.2vh;
